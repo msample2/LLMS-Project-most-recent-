@@ -1,0 +1,94 @@
+{
+  "models": [
+    {
+      "name": "Audi A3",
+      "release_year": 1996,
+      "body_style": "Sedan",
+      "engine_options": ["1.0L Inline-3", "1.5L Inline-4", "2.0L Inline-4"],
+      "horsepower_range": "110-190",
+      "transmission_options": ["6-speed manual", "7-speed automatic"],
+      "drive_type": "Front-wheel drive",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "name": "Audi A4",
+      "release_year": 1994,
+      "body_style": "Sedan",
+      "engine_options": ["2.0L Inline-4", "3.0L V6", "4.0L V8"],
+      "horsepower_range": "190-450",
+      "transmission_options": ["6-speed manual", "8-speed automatic"],
+      "drive_type": "Front-wheel drive / Quattro all-wheel drive",
+      "fuel_type": "Gasoline / Diesel"
+    },
+    {
+      "name": "Audi A6",
+      "release_year": 1994,
+      "body_style": "Sedan",
+      "engine_options": ["2.0L Inline-4", "3.0L V6", "4.0L V8", "2.0L Inline-4 Diesel"],
+      "horsepower_range": "190-450",
+      "transmission_options": ["7-speed automatic", "8-speed automatic"],
+      "drive_type": "Front-wheel drive / Quattro all-wheel drive",
+      "fuel_type": "Gasoline / Diesel"
+    },
+    {
+      "name": "Audi A8",
+      "release_year": 1994,
+      "body_style": "Sedan",
+      "engine_options": ["3.0L V6", "4.0L V8", "6.0L W12"],
+      "horsepower_range": "250-585",
+      "transmission_options": ["8-speed automatic"],
+      "drive_type": "Quattro all-wheel drive",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "name": "Audi Q3",
+      "release_year": 2011,
+      "body_style": "SUV",
+      "engine_options": ["1.4L Inline-4", "2.0L Inline-4"],
+      "horsepower_range": "150-230",
+      "transmission_options": ["6-speed manual", "7-speed automatic"],
+      "drive_type": "Front-wheel drive / Quattro all-wheel drive",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "name": "Audi Q5",
+      "release_year": 2008,
+      "body_style": "SUV",
+      "engine_options": ["2.0L Inline-4", "3.0L V6", "2.0L Inline-4 Diesel"],
+      "horsepower_range": "190-362",
+      "transmission_options": ["7-speed automatic", "8-speed automatic"],
+      "drive_type": "Front-wheel drive / Quattro all-wheel drive",
+      "fuel_type": "Gasoline / Diesel"
+    },
+    {
+      "name": "Audi Q7",
+      "release_year": 2005,
+      "body_style": "SUV",
+      "engine_options": ["3.0L V6", "4.0L V8", "3.0L V6 Diesel"],
+      "horsepower_range": "252-500",
+      "transmission_options": ["8-speed automatic"],
+      "drive_type": "Quattro all-wheel drive",
+      "fuel_type": "Gasoline / Diesel"
+    },
+    {
+      "name": "Audi TT",
+      "release_year": 1998,
+      "body_style": "Coupe / Roadster",
+      "engine_options": ["2.0L Inline-4", "2.5L Inline-5", "3.2L V6"],
+      "horsepower_range": "220-400",
+      "transmission_options": ["6-speed manual", "6-speed automatic", "7-speed automatic"],
+      "drive_type": "Front-wheel drive / Quattro all-wheel drive",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "name": "Audi R8",
+      "release_year": 2006,
+      "body_style": "Coupe / Spyder",
+      "engine_options": ["5.2L V10", "4.0L V8"],
+      "horsepower_range": "540-620",
+      "transmission_options": ["7-speed automatic"],
+      "drive_type": "Quattro all-wheel drive",
+      "fuel_type": "Gasoline"
+    }
+  ]
+}
