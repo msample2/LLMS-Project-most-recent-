@@ -8,7 +8,8 @@
       "horsepower_range": "110-190",
       "transmission_options": ["6-speed manual", "7-speed automatic"],
       "drive_type": "Front-wheel drive",
-      "fuel_type": "Gasoline"
+      "fuel_type": "Gasoline",
+      "image": "a3_image.png" 
     },
     {
       "name": "Audi A4",
