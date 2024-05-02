@@ -9,7 +9,8 @@ def generate_model_text(model):
         engine="gpt-3.5-turbo-instruct", 
         prompt=f"Generate information about the Audi {model}.\n",
         temperature=0.5,
-        max_tokens=100
+        max_tokens=100,
+        stop=["\n\n"]
     )
     return about_text.choices[0].text.strip()
 
@@ -121,7 +122,8 @@ def generate_about_text():
         engine="gpt-3.5-turbo-instruct",
         prompt="Generate information about Audi.\n",
         temperature=0.5,
-        max_tokens=100
+        max_tokens=100,
+        stop=["\n\n"]
     )
     return about_text.choices[0].text.strip()
 
